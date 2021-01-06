@@ -1,141 +1,140 @@
 ,Borough,Neighborhood,ID,Name,Category,Venue_lat,Venue_lng
-0,Bronx,Riverdale,4b94a4a2f964a520787f34e3,Nam Thai,Thai Restaurant,40.886388,-73.910025
-1,Bronx,Kingsbridge,4b94a4a2f964a520787f34e3,Nam Thai,Thai Restaurant,40.886388,-73.910025
+0,Bronx,Riverdale,4b94a4a2f964a520787f34e3,Nam Thai,Thai Restaurant,40.886388000000004,-73.910025
+1,Bronx,Kingsbridge,4b94a4a2f964a520787f34e3,Nam Thai,Thai Restaurant,40.886388000000004,-73.910025
 2,Manhattan,Marble Hill,4a739e29f964a520f5dc1fe3,Siam Square,Thai Restaurant,40.8787962348852,-73.91670090763066
-3,Bronx,Country Club,4b4c90d3f964a52046b626e3,Honey's Thai Pavilion,Thai Restaurant,40.84784479852375,-73.83131988215105
+3,Bronx,Country Club,4b4c90d3f964a52046b626e3,Honey's Thai Pavilion,Thai Restaurant,40.84784479852375,-73.83131988215104
 4,Bronx,Parkchester,5585c948498e0bd8a8a706f1,Thai Cuisine,Thai Restaurant,40.838048,-73.863917
 5,Bronx,Van Nest,5585c948498e0bd8a8a706f1,Thai Cuisine,Thai Restaurant,40.838048,-73.863917
 6,Bronx,Spuyten Duyvil,4a739e29f964a520f5dc1fe3,Siam Square,Thai Restaurant,40.8787962348852,-73.91670090763066
-7,Bronx,Spuyten Duyvil,4b94a4a2f964a520787f34e3,Nam Thai,Thai Restaurant,40.886388,-73.910025
-8,Bronx,Pelham Bay,4b4c90d3f964a52046b626e3,Honey's Thai Pavilion,Thai Restaurant,40.84784479852375,-73.83131988215105
+7,Bronx,Spuyten Duyvil,4b94a4a2f964a520787f34e3,Nam Thai,Thai Restaurant,40.886388000000004,-73.910025
+8,Bronx,Pelham Bay,4b4c90d3f964a52046b626e3,Honey's Thai Pavilion,Thai Restaurant,40.84784479852375,-73.83131988215104
 9,Bronx,Pelham Bay,57097b8b498e5431176ca914,Tana Thai Restaurant,Thai Restaurant,40.85139465332031,-73.84365844726562
 10,Bronx,Pelham Bay,4fa2d111e4b0b4ed78ba688e,Thai Town,Thai Restaurant,40.851394,-73.843808
-11,Brooklyn,Bay Ridge,50e8d45ae4b06202fbe39b08,Top Thai,Thai Restaurant,40.62323607887372,-74.02817264059681
-12,Brooklyn,Sunset Park,4accd335f964a520a8c920e3,Mai Thai,Thai Restaurant,40.642773188863394,-74.00200987323561
+11,Brooklyn,Bay Ridge,50e8d45ae4b06202fbe39b08,Top Thai,Thai Restaurant,40.62323607887372,-74.02817264059682
+12,Brooklyn,Sunset Park,4accd335f964a520a8c920e3,Mai Thai,Thai Restaurant,40.64277318886339,-74.00200987323561
 13,Brooklyn,Flatbush,593b1eabfc9e940adf8a5da1,Mondayoff By Plant Love House,Thai Restaurant,40.63915760197772,-73.96881082984439
-14,Brooklyn,Crown Heights,596ffbcadee77066f36be772,Ruammit Thai,Thai Restaurant,40.67314620843703,-73.95020548637376
+14,Brooklyn,Crown Heights,596ffbcadee77066f36be772,Ruammit Thai,Thai Restaurant,40.673146208437025,-73.95020548637376
 15,Brooklyn,Kensington,54daa265498e58e310cae373,Sawasde Thai Cooking,Thai Restaurant,40.645311,-73.979805
 16,Brooklyn,Kensington,5bbf7c31418686002c49a6a1,Thai Farm Kitchen,Thai Restaurant,40.64414842434787,-73.97604655841916
 17,Brooklyn,Kensington,4b36a0f5f964a5207b3925e3,To Be Thai,Thai Restaurant,40.642891374675024,-73.97833412411897
-18,Brooklyn,Kensington,4f235fb4e4b04f6e681be393,AM Thai Bistro,Thai Restaurant,40.646809999999995,-73.9701623
-19,Brooklyn,Windsor Terrace,50856d05e4b0ee1f10c48013,Jai Dee Thai Restaurant,Thai Restaurant,40.66407001703927,-73.98396326318215
-20,Brooklyn,Prospect Heights,56773ac0498e301585915c6f,LOOK by Plant Love House,Thai Restaurant,40.6799414586479,-73.96432512199156
+18,Brooklyn,Kensington,4f235fb4e4b04f6e681be393,AM Thai Bistro,Thai Restaurant,40.64681,-73.9701623
+19,Brooklyn,Windsor Terrace,50856d05e4b0ee1f10c48013,Jai Dee Thai Restaurant,Thai Restaurant,40.66407001703927,-73.98396326318216
+20,Brooklyn,Prospect Heights,56773ac0498e301585915c6f,LOOK by Plant Love House,Thai Restaurant,40.679941458647896,-73.96432512199156
 21,Brooklyn,Prospect Heights,57117904498eea6297e41d0a,Muse,Thai Restaurant,40.67659358164728,-73.96350255226993
 22,Brooklyn,Prospect Heights,58fe480bda708012683cda5f,Nourish Thai Food Oasis,Thai Restaurant,40.67798236449783,-73.96868742422106
 23,Brooklyn,Williamsburg,5df175e82276e2000744dc8b,Noods n’ Chill,Thai Restaurant,40.711936,-73.961077
-24,Brooklyn,Bushwick,5af62c30d807ee002cb0d322,Klom Klorm,Thai Restaurant,40.7030253107186,-73.9170906082932
+24,Brooklyn,Bushwick,5af62c30d807ee002cb0d322,Klom Klorm,Thai Restaurant,40.7030253107186,-73.91709060829318
 25,Brooklyn,Brooklyn Heights,476f8da1f964a520044d1fe3,Lantern Thai Kitchen,Thai Restaurant,40.69516848345413,-73.99562112798172
 26,Brooklyn,Brooklyn Heights,568f0a26498e56870db2c2ce,Pinto,Thai Restaurant,40.694758432958814,-73.994280065657
 27,Brooklyn,Cobble Hill,4112ca00f964a520ed0b1fe3,Joya,Thai Restaurant,40.68670796457312,-73.99371822043527
 28,Brooklyn,Carroll Gardens,59985da3da5e5606a926b53d,Ugly Baby,Thai Restaurant,40.67801930527555,-73.99613921080501
-29,Brooklyn,Carroll Gardens,5a959bf0646e38268740806b,Boran,Thai Restaurant,40.678160889841436,-73.9979304582126
+29,Brooklyn,Carroll Gardens,5a959bf0646e38268740806b,Boran,Thai Restaurant,40.67816088984144,-73.9979304582126
 30,Brooklyn,Red Hook,5dd9e8cf2e6b8600081ec98d,Somtum Der,Thai Restaurant,40.67707,-74.013306
 31,Brooklyn,Gowanus,59985da3da5e5606a926b53d,Ugly Baby,Thai Restaurant,40.67801930527555,-73.99613921080501
-32,Brooklyn,Gowanus,5a959bf0646e38268740806b,Boran,Thai Restaurant,40.678160889841436,-73.9979304582126
-33,Brooklyn,Fort Greene,54ea1fc3498e51bac940c79e,Thaiholic,Thai Restaurant,40.69323256143289,-73.97129868016181
+32,Brooklyn,Gowanus,5a959bf0646e38268740806b,Boran,Thai Restaurant,40.67816088984144,-73.9979304582126
+33,Brooklyn,Fort Greene,54ea1fc3498e51bac940c79e,Thaiholic,Thai Restaurant,40.693232561432886,-73.97129868016182
 34,Brooklyn,Fort Greene,5be3751ed552c7002cfb65ca,Ace Thai Kitchen,Thai Restaurant,40.69313,-73.973225
 35,Brooklyn,Park Slope,453f6ce3f964a520353c1fe3,Song Thai Restaurant & Bar,Thai Restaurant,40.67348918684329,-73.98259318840869
-36,Brooklyn,Dyker Heights,50e8d45ae4b06202fbe39b08,Top Thai,Thai Restaurant,40.62323607887372,-74.02817264059681
-37,Brooklyn,Clinton Hill,54ea1fc3498e51bac940c79e,Thaiholic,Thai Restaurant,40.69323256143289,-73.97129868016181
+36,Brooklyn,Dyker Heights,50e8d45ae4b06202fbe39b08,Top Thai,Thai Restaurant,40.62323607887372,-74.02817264059682
+37,Brooklyn,Clinton Hill,54ea1fc3498e51bac940c79e,Thaiholic,Thai Restaurant,40.693232561432886,-73.97129868016182
 38,Brooklyn,Clinton Hill,4a709d9ff964a520f6d71fe3,Thai 101,Thai Restaurant,40.69321985502257,-73.96752715831622
 39,Brooklyn,Clinton Hill,5be3751ed552c7002cfb65ca,Ace Thai Kitchen,Thai Restaurant,40.69313,-73.973225
-40,Brooklyn,Clinton Hill,56cfa922cd10d5a1e00c5c19,Dannee,Thai Restaurant,40.69039337559935,-73.96009364904756
-41,Brooklyn,Downtown,5c56083dc58ed7002c3255d0,Charm Kao,Thai Restaurant,40.689212,-73.98625
-42,Brooklyn,Boerum Hill,5c56083dc58ed7002c3255d0,Charm Kao,Thai Restaurant,40.689212,-73.98625
-43,Brooklyn,Prospect Lefferts Gardens,5d4f31a92ada380008a49b7f,Amy Thai Bistro,Thai Restaurant,40.660705,-73.960513
-44,Brooklyn,Prospect Park South,4f235fb4e4b04f6e681be393,AM Thai Bistro,Thai Restaurant,40.646809999999995,-73.9701623
-45,Brooklyn,East Williamsburg,4fc01ea6e4b0e4e80c70cf1d,Sage Brooklyn,Thai Restaurant,40.71306007524032,-73.94420151920066
-46,Brooklyn,North Side,5df175e82276e2000744dc8b,Noods n’ Chill,Thai Restaurant,40.711936,-73.961077
-47,Brooklyn,South Side,5df175e82276e2000744dc8b,Noods n’ Chill,Thai Restaurant,40.711936,-73.961077
-48,Brooklyn,Fort Hamilton,50e8d45ae4b06202fbe39b08,Top Thai,Thai Restaurant,40.62323607887372,-74.02817264059681
-49,Manhattan,Chinatown,5cc4e9d0c876c8002c3010cb,Wayla,Thai Restaurant,40.7182908437571,-73.99258397519587
-50,Manhattan,Chinatown,5e46e2ec5791a10008c55728,Thai Diner,Thai Restaurant,40.720739,-73.995631
-51,Manhattan,Washington Heights,5809511c38fafba1ec352126,Tung Thong,Thai Restaurant,40.851109976169056,-73.93921985006985
-52,Manhattan,East Harlem,55a85a66498e68da40bc7212,Malii,Thai Restaurant,40.789524977200365,-73.94323226322045
-53,Manhattan,East Harlem,5a68fb506336be407ef635ab,Bangklyn East Harlem,Thai Restaurant,40.790287,-73.943054
-54,Manhattan,East Harlem,5303fc3c11d250deaaf46b56,Absolute Thai Restaurant,Thai Restaurant,40.78920165381754,-73.94844039571389
-55,Manhattan,East Harlem,549cd5bf498eec334637c27b,Pro Thai,Thai Restaurant,40.788988956121365,-73.94866168268142
-56,Manhattan,Upper East Side,5997796d603d2a7019b8c58e,THEP Thai Restaurant,Thai Restaurant,40.77074334700357,-73.95705953980662
-57,Manhattan,Yorkville,57f81d9e498e82d3766ccce8,PuTawn Local Thai Kitchen,Thai Restaurant,40.77459861106953,-73.95104174611885
-58,Manhattan,Lenox Hill,52be229211d2aabfe6f24d20,Up Thai,Thai Restaurant,40.76989759006919,-73.9575976933572
-59,Manhattan,Lenox Hill,5997796d603d2a7019b8c58e,THEP Thai Restaurant,Thai Restaurant,40.77074334700357,-73.95705953980662
-60,Manhattan,Upper West Side,42951180f964a52045241fe3,Land Thai Kitchen,Thai Restaurant,40.78486751358464,-73.97712178279812
-61,Manhattan,Upper West Side,54600d4a498e6bb7ceb3567d,Senn Thai Comfort Food,Thai Restaurant,40.78488,-73.976934
-62,Manhattan,Clinton,51ea0c7b8bbd8c94347df35d,OBAO Hell's Kitchen,Thai Restaurant,40.76056300016482,-73.99108715100483
-63,Manhattan,Murray Hill,5424bb1b498ecea0c85b6b43,Lan Larb Midtown,Thai Restaurant,40.74533363204334,-73.9755277555111
-64,Manhattan,Little Italy,5e46e2ec5791a10008c55728,Thai Diner,Thai Restaurant,40.720739,-73.995631
-65,Manhattan,Little Italy,5cc4e9d0c876c8002c3010cb,Wayla,Thai Restaurant,40.7182908437571,-73.99258397519587
-66,Manhattan,Soho,5e46e2ec5791a10008c55728,Thai Diner,Thai Restaurant,40.720739,-73.995631
-67,Manhattan,Manhattan Valley,49dfbfabf964a52009611fe3,Thai Market,Thai Restaurant,40.80127003774722,-73.96514080681695
-68,Manhattan,Manhattan Valley,5516db98498e3f164dbdcb6e,Spice,Thai Restaurant,40.8016900821996,-73.96476016158024
-69,Manhattan,Morningside Heights,49dfbfabf964a52009611fe3,Thai Market,Thai Restaurant,40.80127003774722,-73.96514080681695
-70,Manhattan,Gramercy,5ee66a36459579000887cd2b,Soothr,Thai Restaurant,40.732287,-73.987287
-71,Manhattan,Gramercy,5c82ac6951950e0039187d89,Nana Thai Street,Thai Restaurant,40.739568,-73.988513
-72,Queens,Astoria,57fee854498e2fe6a134e544,Pochana Thai Kitchen,Thai Restaurant,40.765866836189865,-73.91925648391081
-73,Queens,Astoria,51f32456498e149384c052df,Enthaice,Thai Restaurant,40.76316509784422,-73.92114974055457
-74,Queens,Woodside,3fd66200f964a5204ef11ee3,SriPraPhai,Thai Restaurant,40.7463421117063,-73.89924799709517
-75,Queens,Woodside,4a7f6626f964a520e8f31fe3,Thailand's Center Point,Thai Restaurant,40.74653126911064,-73.90024748864485
-76,Queens,Woodside,4bedd3e8a40fc928d193820c,Sweet Basil,Thai Restaurant,40.74648420263391,-73.90303279550324
-77,Queens,Woodside,57608fb1498e9796802dc2b4,Jaew Hon,Thai Restaurant,40.74650487891514,-73.89381232695563
-78,Queens,Jackson Heights,560f2343498e6d1819390cb4,Sompong Thai,Thai Restaurant,40.749506948439134,-73.88332349454004
-79,Queens,Jackson Heights,5424a7a2498ec9a9cdb36746,Black Thai,Thai Restaurant,40.75546531349948,-73.8856754700667
-80,Queens,Jackson Heights,4a7b6d8ff964a520fcea1fe3,Arunee Thai,Thai Restaurant,40.749498111391844,-73.88738656779498
-81,Queens,Jackson Heights,53af884e498e0a4a4943f670,Kitchen 79,Thai Restaurant,40.74759475929948,-73.88684425477783
-82,Queens,Jackson Heights,52f693e6498ed9d2a3fbad75,Eim Khao Mun Kai Elmhurst อิ่ม ข้าวมันไก่เอ็มเฮิสท์,Thai Restaurant,40.74301419509326,-73.8830565603355
-83,Queens,Elmhurst,52f693e6498ed9d2a3fbad75,Eim Khao Mun Kai Elmhurst อิ่ม ข้าวมันไก่เอ็มเฮิสท์,Thai Restaurant,40.74301419509326,-73.8830565603355
-84,Queens,Elmhurst,5abad6379de23b5eeb077b04,Lamoon,Thai Restaurant,40.74285049616353,-73.88291281240058
-85,Queens,Elmhurst,56e210f7cd102122a9fb1d1b,Dek Sen,Thai Restaurant,40.741753,-73.87869599999999
-86,Queens,Elmhurst,4b26f895f964a5209d8324e3,Ayada Thai,Thai Restaurant,40.74346877522566,-73.88755206484345
-87,Queens,Elmhurst,593f6541123a19687791b390,Hug Esan NYC,Thai Restaurant,40.74363967925668,-73.88739194659337
-88,Queens,Elmhurst,53d53756498e2a83f3c2aadb,Paet Rio,Thai Restaurant,40.74328084048648,-73.88352539348799
-89,Queens,Elmhurst,531372e9498ebd3be2888afc,Khao Kang ข้าวแกง,Thai Restaurant,40.7434045536266,-73.88809859529692
-90,Queens,Elmhurst,4ad15d63f964a5203ede20e3,Spicy Shallot,Thai Restaurant,40.74360779755604,-73.88793849762466
-91,Queens,Elmhurst,4c2e801d3ffc952130568ff5,Boon Chu Thai Restaurant,Thai Restaurant,40.74069431922803,-73.87946577082448
-92,Queens,Elmhurst,53af884e498e0a4a4943f670,Kitchen 79,Thai Restaurant,40.74759475929948,-73.88684425477783
-93,Queens,Elmhurst,560f2343498e6d1819390cb4,Sompong Thai,Thai Restaurant,40.749506948439134,-73.88332349454004
-94,Queens,Elmhurst,4a7b6d8ff964a520fcea1fe3,Arunee Thai,Thai Restaurant,40.749498111391844,-73.88738656779498
-95,Queens,Forest Hills,46b1ef0df964a520a0491fe3,Bangkok Cuisine,Thai Restaurant,40.72106157925685,-73.84543184469939
-96,Queens,Long Island City,5574d051498ed29e025087a4,House of Thai,Thai Restaurant,40.75349378559224,-73.93787824622585
-97,Queens,Sunnyside,57346238498e19234e93e838,Thai Diva Cuisine,Thai Restaurant,40.74145191465704,-73.91904537430251
-98,Queens,Rego Park,4bc90857937ca5936d19a592,Thai Pot,Thai Restaurant,40.72472006801557,-73.85001317851223
-99,Queens,Woodhaven,4b6b6ee9f964a5207f082ce3,Thailand Kitchen Corp.,Thai Restaurant,40.69265417236722,-73.8579874136706
-100,Queens,South Ozone Park,505e482fe4b0ad0a3ed7c2e8,Nanking Asian fusion,Thai Restaurant,40.67464621915444,-73.80375934580849
-101,Queens,Bayside,4b799160f964a52001022fe3,Erawan Thai Cuisine,Thai Restaurant,40.76179659002517,-73.77004981040953
-102,Queens,Bayside,51ca39db498e3d72a5e15d8a,Thai 101,Thai Restaurant,40.764871819524046,-73.77159487681543
-103,Queens,Auburndale,5415d184498ed5a1b577d16c,Thanya,Thai Restaurant,40.76623587799664,-73.78946469494464
-104,Queens,Little Neck,4c02ca6a0d0e0f470aa9019a,Am Yours Cafe,Thai Restaurant,40.76535849539072,-73.74418224074361
-105,Queens,Douglaston,4c02ca6a0d0e0f470aa9019a,Am Yours Cafe,Thai Restaurant,40.76535849539072,-73.74418224074361
-106,Queens,Glen Oaks,4bb14694f964a520f5883ce3,Asian Bowl Thai Cuisine,Thai Restaurant,40.74237822027764,-73.72167563025961
-107,Queens,Fresh Meadows,5ae3a6fda30619002c1490a9,Kin'd Thai,Thai Restaurant,40.73012666833984,-73.77841189617891
-108,Queens,Jamaica Center,51cd0030498e1874e3954776,Amina Thai,Thai Restaurant,40.71089655510882,-73.79233007734564
-109,Queens,Steinway,457d4c15f964a5201a3f1fe3,Thai Elephant,Thai Restaurant,40.77774433470393,-73.90880785699075
-110,Queens,Steinway,595c10c61de76542ca750a50,San Aroy,Thai Restaurant,40.77493948201278,-73.91372844064065
-111,Queens,Arverne,527ef74d11d257effa558059,Thai Kitchen By The Sea,Thai Restaurant,40.59082253627518,-73.79670566426822
-112,Queens,Rockaway Beach,4de1791d52b1d38d29571891,Ode to the Elephants,Thai Restaurant,40.582931,-73.817617
-113,Queens,Jamaica Estates,51cd0030498e1874e3954776,Amina Thai,Thai Restaurant,40.71089655510882,-73.79233007734564
-114,Queens,Ravenswood,53701e2e498e0a21ab0bbb59,Pye Boat Noodle,Thai Restaurant,40.76032367528069,-73.92171077546482
-115,Queens,Ravenswood,51f32456498e149384c052df,Enthaice,Thai Restaurant,40.76316509784422,-73.92114974055457
-116,Queens,Ravenswood,4ab7badef964a5209d7a20e3,Leng Thai,Thai Restaurant,40.76129111573629,-73.92320684281553
-117,Queens,Ravenswood,5a25fc1d9411f22a375e80d8,Hero Thai & Izakaya,Thai Restaurant,40.760529733200286,-73.92242730847313
-118,Queens,Lefrak City,595fc2f0f427de4acf2675ea,Uthai Cookhouse,Thai Restaurant,40.728227000000004,-73.864049
-119,Queens,Somerville,527ef74d11d257effa558059,Thai Kitchen By The Sea,Thai Restaurant,40.59082253627518,-73.79670566426822
-120,Queens,Forest Hills Gardens,46b1ef0df964a520a0491fe3,Bangkok Cuisine,Thai Restaurant,40.72106157925685,-73.84543184469939
-121,Staten Island,St. George,597780112d2fd94ba813df3f,Chang Noi Thai,Thai Restaurant,40.643692,-74.077957
-122,Staten Island,Port Richmond,4b7c698af964a520bc912fe3,Forest Thai Cuisine,Thai Restaurant,40.626522775388366,-74.13037822911718
-123,Staten Island,Tompkinsville,597780112d2fd94ba813df3f,Chang Noi Thai,Thai Restaurant,40.643692,-74.077957
-124,Brooklyn,Ditmas Park,4f235fb4e4b04f6e681be393,AM Thai Bistro,Thai Restaurant,40.646809999999995,-73.9701623
-125,Brooklyn,Ditmas Park,593b1eabfc9e940adf8a5da1,Mondayoff By Plant Love House,Thai Restaurant,40.63915760197772,-73.96881082984439
-126,Staten Island,Westerleigh,4b7c698af964a520bc912fe3,Forest Thai Cuisine,Thai Restaurant,40.626522775388366,-74.13037822911718
-127,Staten Island,Graniteville,51734440e4b093690645e66b,Empire East Richmond Ave,Thai Restaurant,40.61197242132444,-74.15746278082396
-128,Staten Island,Bulls Head,51734440e4b093690645e66b,Empire East Richmond Ave,Thai Restaurant,40.61197242132444,-74.15746278082396
-129,Manhattan,Noho,57c169e3498e784947e307aa,Fish Cheeks,Thai Restaurant,40.72586100363351,-73.99253343981425
-130,Queens,Jamaica Hills,51cd0030498e1874e3954776,Amina Thai,Thai Restaurant,40.71089655510882,-73.79233007734564
-131,Manhattan,Sutton Place,4afca7e0f964a520d02422e3,OBAO Midtown,Thai Restaurant,40.75727513834895,-73.96854069266344
-132,Queens,Hunters Point,49cfd074f964a520ce5a1fe3,Tuk Tuk,Thai Restaurant,40.74314207648646,-73.95402068036339
-133,Manhattan,Turtle Bay,4afca7e0f964a520d02422e3,OBAO Midtown,Thai Restaurant,40.75727513834895,-73.96854069266344
-134,Manhattan,Tudor City,5424bb1b498ecea0c85b6b43,Lan Larb Midtown,Thai Restaurant,40.74533363204334,-73.9755277555111
-135,Manhattan,Flatiron,57e83df3498eebbe238cb36f,Thai Villa,Thai Restaurant,40.739118324714035,-73.99057903842908
-136,Queens,Sunnyside Gardens,4bf5e3f05e800f472e80e6d4,I Am Thai Restaurant,Thai Restaurant,40.7445497963552,-73.91519565611054
-137,Queens,Sunnyside Gardens,57346238498e19234e93e838,Thai Diva Cuisine,Thai Restaurant,40.74145191465704,-73.91904537430251
-138,Queens,Hammels,527ef74d11d257effa558059,Thai Kitchen By The Sea,Thai Restaurant,40.59082253627518,-73.79670566426822
-139,Queens,Queensbridge,5574d051498ed29e025087a4,House of Thai,Thai Restaurant,40.75349378559224,-73.93787824622585
+40,Brooklyn,Downtown,5c56083dc58ed7002c3255d0,Charm Kao,Thai Restaurant,40.689212,-73.98625
+41,Brooklyn,Boerum Hill,5c56083dc58ed7002c3255d0,Charm Kao,Thai Restaurant,40.689212,-73.98625
+42,Brooklyn,Prospect Lefferts Gardens,5d4f31a92ada380008a49b7f,Amy Thai Bistro,Thai Restaurant,40.660705,-73.960513
+43,Brooklyn,Prospect Park South,4f235fb4e4b04f6e681be393,AM Thai Bistro,Thai Restaurant,40.64681,-73.9701623
+44,Brooklyn,East Williamsburg,4fc01ea6e4b0e4e80c70cf1d,Sage Brooklyn,Thai Restaurant,40.713060075240314,-73.94420151920065
+45,Brooklyn,North Side,5df175e82276e2000744dc8b,Noods n’ Chill,Thai Restaurant,40.711936,-73.961077
+46,Brooklyn,South Side,5df175e82276e2000744dc8b,Noods n’ Chill,Thai Restaurant,40.711936,-73.961077
+47,Brooklyn,Fort Hamilton,50e8d45ae4b06202fbe39b08,Top Thai,Thai Restaurant,40.62323607887372,-74.02817264059682
+48,Manhattan,Chinatown,5cc4e9d0c876c8002c3010cb,Wayla,Thai Restaurant,40.7182908437571,-73.99258397519588
+49,Manhattan,Chinatown,5e46e2ec5791a10008c55728,Thai Diner,Thai Restaurant,40.720739,-73.995631
+50,Manhattan,Washington Heights,5809511c38fafba1ec352126,Tung Thong,Thai Restaurant,40.851109976169056,-73.93921985006985
+51,Manhattan,East Harlem,55a85a66498e68da40bc7212,Malii,Thai Restaurant,40.789524977200365,-73.94323226322045
+52,Manhattan,East Harlem,5a68fb506336be407ef635ab,Bangklyn East Harlem,Thai Restaurant,40.790287,-73.943054
+53,Manhattan,East Harlem,5303fc3c11d250deaaf46b56,Absolute Thai Restaurant,Thai Restaurant,40.78920165381754,-73.94844039571389
+54,Manhattan,East Harlem,549cd5bf498eec334637c27b,Pro Thai,Thai Restaurant,40.788988956121365,-73.94866168268142
+55,Manhattan,Upper East Side,5997796d603d2a7019b8c58e,THEP Thai Restaurant,Thai Restaurant,40.770743347003574,-73.95705953980662
+56,Manhattan,Yorkville,57f81d9e498e82d3766ccce8,PuTawn Local Thai Kitchen,Thai Restaurant,40.77459861106953,-73.95104174611885
+57,Manhattan,Lenox Hill,52be229211d2aabfe6f24d20,Up Thai,Thai Restaurant,40.76989759006919,-73.9575976933572
+58,Manhattan,Lenox Hill,5997796d603d2a7019b8c58e,THEP Thai Restaurant,Thai Restaurant,40.770743347003574,-73.95705953980662
+59,Manhattan,Upper West Side,42951180f964a52045241fe3,Land Thai Kitchen,Thai Restaurant,40.784867513584636,-73.97712178279812
+60,Manhattan,Upper West Side,54600d4a498e6bb7ceb3567d,Senn Thai Comfort Food,Thai Restaurant,40.78488,-73.976934
+61,Manhattan,Clinton,51ea0c7b8bbd8c94347df35d,OBAO Hell's Kitchen,Thai Restaurant,40.76056300016482,-73.99108715100483
+62,Manhattan,Murray Hill,5424bb1b498ecea0c85b6b43,Lan Larb Midtown,Thai Restaurant,40.74533363204334,-73.9755277555111
+63,Manhattan,Little Italy,5e46e2ec5791a10008c55728,Thai Diner,Thai Restaurant,40.720739,-73.995631
+64,Manhattan,Little Italy,5cc4e9d0c876c8002c3010cb,Wayla,Thai Restaurant,40.7182908437571,-73.99258397519588
+65,Manhattan,Soho,5e46e2ec5791a10008c55728,Thai Diner,Thai Restaurant,40.720739,-73.995631
+66,Manhattan,Manhattan Valley,49dfbfabf964a52009611fe3,Thai Market,Thai Restaurant,40.801270037747216,-73.96514080681696
+67,Manhattan,Manhattan Valley,5516db98498e3f164dbdcb6e,Spice,Thai Restaurant,40.8016900821996,-73.96476016158024
+68,Manhattan,Morningside Heights,49dfbfabf964a52009611fe3,Thai Market,Thai Restaurant,40.801270037747216,-73.96514080681696
+69,Manhattan,Gramercy,5ee66a36459579000887cd2b,Soothr,Thai Restaurant,40.732287,-73.987287
+70,Manhattan,Gramercy,5c82ac6951950e0039187d89,Nana Thai Street,Thai Restaurant,40.739568,-73.988513
+71,Queens,Astoria,57fee854498e2fe6a134e544,Pochana Thai Kitchen,Thai Restaurant,40.76586683618986,-73.91925648391081
+72,Queens,Astoria,51f32456498e149384c052df,Enthaice,Thai Restaurant,40.76316509784422,-73.92114974055457
+73,Queens,Woodside,3fd66200f964a5204ef11ee3,SriPraPhai,Thai Restaurant,40.7463421117063,-73.89924799709517
+74,Queens,Woodside,4a7f6626f964a520e8f31fe3,Thailand's Center Point,Thai Restaurant,40.74653126911064,-73.90024748864484
+75,Queens,Woodside,4bedd3e8a40fc928d193820c,Sweet Basil,Thai Restaurant,40.74648420263391,-73.90303279550324
+76,Queens,Woodside,57608fb1498e9796802dc2b4,Jaew Hon,Thai Restaurant,40.74650487891514,-73.89381232695563
+77,Queens,Jackson Heights,560f2343498e6d1819390cb4,Sompong Thai,Thai Restaurant,40.749506948439134,-73.88332349454005
+78,Queens,Jackson Heights,5424a7a2498ec9a9cdb36746,Black Thai,Thai Restaurant,40.75546531349948,-73.8856754700667
+79,Queens,Jackson Heights,53af884e498e0a4a4943f670,Kitchen 79,Thai Restaurant,40.74759475929948,-73.88684425477783
+80,Queens,Jackson Heights,4a7b6d8ff964a520fcea1fe3,Arunee Thai,Thai Restaurant,40.74949811139184,-73.88738656779499
+81,Queens,Jackson Heights,52f693e6498ed9d2a3fbad75,Eim Khao Mun Kai Elmhurst อิ่ม ข้าวมันไก่เอ็มเฮิสท์,Thai Restaurant,40.74301419509326,-73.8830565603355
+82,Queens,Elmhurst,52f693e6498ed9d2a3fbad75,Eim Khao Mun Kai Elmhurst อิ่ม ข้าวมันไก่เอ็มเฮิสท์,Thai Restaurant,40.74301419509326,-73.8830565603355
+83,Queens,Elmhurst,5abad6379de23b5eeb077b04,Lamoon,Thai Restaurant,40.74285049616352,-73.88291281240058
+84,Queens,Elmhurst,56e210f7cd102122a9fb1d1b,Dek Sen,Thai Restaurant,40.741753,-73.878696
+85,Queens,Elmhurst,4b26f895f964a5209d8324e3,Ayada Thai,Thai Restaurant,40.74346877522566,-73.88755206484346
+86,Queens,Elmhurst,593f6541123a19687791b390,Hug Esan NYC,Thai Restaurant,40.74363967925668,-73.88739194659338
+87,Queens,Elmhurst,53d53756498e2a83f3c2aadb,Paet Rio,Thai Restaurant,40.743280840486484,-73.88352539348799
+88,Queens,Elmhurst,531372e9498ebd3be2888afc,Khao Kang ข้าวแกง,Thai Restaurant,40.7434045536266,-73.88809859529692
+89,Queens,Elmhurst,4ad15d63f964a5203ede20e3,Spicy Shallot,Thai Restaurant,40.74360779755604,-73.88793849762465
+90,Queens,Elmhurst,53af884e498e0a4a4943f670,Kitchen 79,Thai Restaurant,40.74759475929948,-73.88684425477783
+91,Queens,Elmhurst,560f2343498e6d1819390cb4,Sompong Thai,Thai Restaurant,40.749506948439134,-73.88332349454005
+92,Queens,Elmhurst,4c2e801d3ffc952130568ff5,Boon Chu Thai Restaurant,Thai Restaurant,40.740694319228034,-73.87946577082448
+93,Queens,Elmhurst,4a7b6d8ff964a520fcea1fe3,Arunee Thai,Thai Restaurant,40.74949811139184,-73.88738656779499
+94,Queens,Forest Hills,46b1ef0df964a520a0491fe3,Bangkok Cuisine,Thai Restaurant,40.721061579256855,-73.84543184469939
+95,Queens,Long Island City,5574d051498ed29e025087a4,House of Thai,Thai Restaurant,40.753493785592234,-73.93787824622584
+96,Queens,Sunnyside,57346238498e19234e93e838,Thai Diva Cuisine,Thai Restaurant,40.74145191465704,-73.91904537430251
+97,Queens,Rego Park,4bc90857937ca5936d19a592,Thai Pot,Thai Restaurant,40.72472006801557,-73.85001317851224
+98,Queens,Woodhaven,4b6b6ee9f964a5207f082ce3,Thailand Kitchen Corp.,Thai Restaurant,40.69265417236722,-73.8579874136706
+99,Queens,South Ozone Park,505e482fe4b0ad0a3ed7c2e8,Nanking Asian fusion,Thai Restaurant,40.67464621915444,-73.80375934580849
+100,Queens,Bayside,4b799160f964a52001022fe3,Erawan Thai Cuisine,Thai Restaurant,40.76179659002517,-73.77004981040953
+101,Queens,Bayside,51ca39db498e3d72a5e15d8a,Thai 101,Thai Restaurant,40.76487181952405,-73.77159487681543
+102,Queens,Auburndale,5415d184498ed5a1b577d16c,Thanya,Thai Restaurant,40.766235877996635,-73.78946469494464
+103,Queens,Little Neck,4c02ca6a0d0e0f470aa9019a,Am Yours Cafe,Thai Restaurant,40.765358495390714,-73.74418224074361
+104,Queens,Douglaston,4c02ca6a0d0e0f470aa9019a,Am Yours Cafe,Thai Restaurant,40.765358495390714,-73.74418224074361
+105,Queens,Glen Oaks,4bb14694f964a520f5883ce3,Asian Bowl Thai Cuisine,Thai Restaurant,40.74237822027763,-73.72167563025961
+106,Queens,Fresh Meadows,5ae3a6fda30619002c1490a9,Kin'd Thai,Thai Restaurant,40.730126668339835,-73.77841189617891
+107,Queens,Jamaica Center,51cd0030498e1874e3954776,Amina Thai,Thai Restaurant,40.71089655510881,-73.79233007734564
+108,Queens,Steinway,457d4c15f964a5201a3f1fe3,Thai Elephant,Thai Restaurant,40.77774433470393,-73.90880785699075
+109,Queens,Steinway,595c10c61de76542ca750a50,San Aroy,Thai Restaurant,40.77493948201278,-73.91372844064065
+110,Queens,Arverne,527ef74d11d257effa558059,Thai Kitchen By The Sea,Thai Restaurant,40.59082253627519,-73.79670566426822
+111,Queens,Rockaway Beach,4de1791d52b1d38d29571891,Ode to the Elephants,Thai Restaurant,40.582931,-73.817617
+112,Queens,Jamaica Estates,51cd0030498e1874e3954776,Amina Thai,Thai Restaurant,40.71089655510881,-73.79233007734564
+113,Queens,Ravenswood,53701e2e498e0a21ab0bbb59,Pye Boat Noodle,Thai Restaurant,40.76032367528069,-73.92171077546482
+114,Queens,Ravenswood,51f32456498e149384c052df,Enthaice,Thai Restaurant,40.76316509784422,-73.92114974055457
+115,Queens,Ravenswood,4ab7badef964a5209d7a20e3,Leng Thai,Thai Restaurant,40.761291115736284,-73.92320684281553
+116,Queens,Ravenswood,5a25fc1d9411f22a375e80d8,Hero Thai & Izakaya,Thai Restaurant,40.76052973320029,-73.92242730847312
+117,Queens,Lefrak City,595fc2f0f427de4acf2675ea,Uthai Cookhouse,Thai Restaurant,40.728227,-73.864049
+118,Queens,Somerville,527ef74d11d257effa558059,Thai Kitchen By The Sea,Thai Restaurant,40.59082253627519,-73.79670566426822
+119,Queens,Forest Hills Gardens,46b1ef0df964a520a0491fe3,Bangkok Cuisine,Thai Restaurant,40.721061579256855,-73.84543184469939
+120,Staten Island,St. George,597780112d2fd94ba813df3f,Chang Noi Thai,Thai Restaurant,40.643692,-74.077957
+121,Staten Island,Port Richmond,4b7c698af964a520bc912fe3,Forest Thai Cuisine,Thai Restaurant,40.62652277538837,-74.13037822911718
+122,Staten Island,Tompkinsville,597780112d2fd94ba813df3f,Chang Noi Thai,Thai Restaurant,40.643692,-74.077957
+123,Brooklyn,Ditmas Park,4f235fb4e4b04f6e681be393,AM Thai Bistro,Thai Restaurant,40.64681,-73.9701623
+124,Brooklyn,Ditmas Park,593b1eabfc9e940adf8a5da1,Mondayoff By Plant Love House,Thai Restaurant,40.63915760197772,-73.96881082984439
+125,Staten Island,Westerleigh,4b7c698af964a520bc912fe3,Forest Thai Cuisine,Thai Restaurant,40.62652277538837,-74.13037822911718
+126,Staten Island,Graniteville,51734440e4b093690645e66b,Empire East Richmond Ave,Thai Restaurant,40.61197242132444,-74.15746278082396
+127,Staten Island,Bulls Head,51734440e4b093690645e66b,Empire East Richmond Ave,Thai Restaurant,40.61197242132444,-74.15746278082396
+128,Manhattan,Noho,57c169e3498e784947e307aa,Fish Cheeks,Thai Restaurant,40.725861003633504,-73.99253343981425
+129,Queens,Jamaica Hills,51cd0030498e1874e3954776,Amina Thai,Thai Restaurant,40.71089655510881,-73.79233007734564
+130,Manhattan,Sutton Place,4afca7e0f964a520d02422e3,OBAO Midtown,Thai Restaurant,40.757275138348945,-73.96854069266344
+131,Queens,Hunters Point,49cfd074f964a520ce5a1fe3,Tuk Tuk,Thai Restaurant,40.74314207648646,-73.95402068036337
+132,Manhattan,Turtle Bay,4afca7e0f964a520d02422e3,OBAO Midtown,Thai Restaurant,40.757275138348945,-73.96854069266344
+133,Manhattan,Tudor City,5424bb1b498ecea0c85b6b43,Lan Larb Midtown,Thai Restaurant,40.74533363204334,-73.9755277555111
+134,Manhattan,Flatiron,57e83df3498eebbe238cb36f,Thai Villa,Thai Restaurant,40.73911832471403,-73.99057903842908
+135,Queens,Sunnyside Gardens,4bf5e3f05e800f472e80e6d4,I Am Thai Restaurant,Thai Restaurant,40.7445497963552,-73.91519565611055
+136,Queens,Sunnyside Gardens,57346238498e19234e93e838,Thai Diva Cuisine,Thai Restaurant,40.74145191465704,-73.91904537430251
+137,Queens,Hammels,527ef74d11d257effa558059,Thai Kitchen By The Sea,Thai Restaurant,40.59082253627519,-73.79670566426822
+138,Queens,Queensbridge,5574d051498ed29e025087a4,House of Thai,Thai Restaurant,40.753493785592234,-73.93787824622584
