@@ -1,14 +1,15 @@
 # Where to open a new Thai restaurant in New York?
 
-Table of Contents
-[1. Introduction: Business Problem](#Introduction: Business Problem)
+## Table of Contents
+
+1. Introduction: Business Problem
 2. Data
 3. Methodology
 4. Analysis
 5. Results and Discussion
 6. Conclusion
 
-## Introduction: Business Problem
+### Introduction: Business Problem
 
 Over the last 20 years, Thai restaurants have been one of the fastest-growing dining categories in New York City. Ever since the advent of places specializing in regional cuisines, often presenting recipes not seen here before, the Thai dining scene has been more exciting than ever before. So that now I have the fiery food of Isan in the northeast, the mellower food of Chiang Mai near the Burmese border, oodles of noodles from Sukhothai, the curries of central and southern Thailand, the urban cuisine of Bangkok, and the Malaysian-leaning food of the peninsula. Our newest arrival is the food of the capital's Chinatown.
 
@@ -20,7 +21,7 @@ The first task would be to find the areas lack Thai Restaurants by analyzing res
 
 I will make use of our data science tools to analyze data and focus on the areas and explore its areas and the 10 most common venues in each area so that the best areas where Thai restaurant is not amongst the most common venue can be selected.
 
-## Data
+### Data
 Based on the definition of our problem, the factors that will influence our decision are:
 - finding the areas lack Thai Restaurants
 - finding the most common venues
@@ -35,3 +36,5 @@ Following data sources will be needed to extract/generate the required informati
 - **Part 3: Gathering additional information about the Thai Restaurant for each neighborhood from FoursquareAPI**: Get the additional venue data such as likes, ratings, and price.
 - **Part 4: Gathering additional information about the Nearby Venues for each Thai Restaurant from FoursquareAPI**: Get the venue data that nearby Thai restaurants.
 - **Part 5: Creating a new consolidated dataset of the IBM New York Dataset, along with their Thai restaurant, restaurant detail, and the nearby restaurants**: Merge all of the data frames into a single data frame for further analysis
+
+### Read more at [Medium](https://kitithatthat.medium.com/where-to-open-a-new-thai-restaurant-in-new-york-24bdccccb39a)
